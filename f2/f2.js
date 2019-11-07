@@ -1,0 +1,1 @@
+alert('this is f2.js file under f1 folder.')
